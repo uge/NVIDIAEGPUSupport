@@ -39,7 +39,7 @@
 			<key>IOProviderClass</key>
 			<string>IOPCIDevice</string>
 			<key>NVDARequiredOS</key>
-			<string>17B1002</string>
+			<string>17C88</string>
 			<key>NVDAType</key>
 			<string>Web</string>
 		</dict>
